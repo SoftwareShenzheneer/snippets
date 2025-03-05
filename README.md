@@ -15,6 +15,8 @@ Project to display a search algorithm that uses an inherently different step tha
 Merge 2 sorted arrays using 2 pointers principle for a more optimized method. Added some testcases to the mix.
 8. Partition problem
 During a course I looked into, there was a mention of the partition problem. Essentially it's a decrease and conquer method of dividing the sum of an array into 2 subsets of equal value when possible.
+9. Multiply matrix
+Simple program multiplying matrices of x by x dimensions. If they are of non-matchin dimensions, that's no problem. The program should just handle outputting the result (hey that's what manipulating a vector is, right? - Yes.). So this implementation can be used for vector manipulation.
 
 ## Leetcode
 A collection of leetcode questions solved or worked on.
