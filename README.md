@@ -21,6 +21,8 @@ Simple program multiplying matrices of x by x dimensions. If they are of non-mat
 ## Leetcode
 A collection of leetcode questions solved or worked on.
 
-1. patches-661
-Maximum number of patches required to reach an integer n from an array. Problem 661.
+1. patches-330
+Maximum number of patches required to reach an integer n from an array. Problem 330.
+2. imageSmoother-661
+Algorithm which takes in an image and runs a averaging window over the pixels. Problem 661.
 
