@@ -17,6 +17,8 @@ Merge 2 sorted arrays using 2 pointers principle for a more optimized method. Ad
 During a course I looked into, there was a mention of the partition problem. Essentially it's a decrease and conquer method of dividing the sum of an array into 2 subsets of equal value when possible.
 9. Multiply matrix
 Simple program multiplying matrices of x by x dimensions. If they are of non-matchin dimensions, that's no problem. The program should just handle outputting the result (hey that's what manipulating a vector is, right? - Yes.). So this implementation can be used for vector manipulation.
+10. Minmax
+Simple program which removes the minimum and maximum value of an array. This was a practical thing I ran into doing my job so I wanted to test it in isolation because I thought that would be a fun thing to do.
 
 ## Leetcode
 A collection of leetcode questions solved or worked on.
