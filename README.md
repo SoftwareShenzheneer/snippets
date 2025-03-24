@@ -19,6 +19,8 @@ During a course I looked into, there was a mention of the partition problem. Ess
 Simple program multiplying matrices of x by x dimensions. If they are of non-matchin dimensions, that's no problem. The program should just handle outputting the result (hey that's what manipulating a vector is, right? - Yes.). So this implementation can be used for vector manipulation.
 10. Minmax
 Simple program which removes the minimum and maximum value of an array. This was a practical thing I ran into doing my job so I wanted to test it in isolation because I thought that would be a fun thing to do.
+11. esp32 Bluetooth Demo
+This demo showcases how to use an ESP32 to communicate via Bluetooth with the nRF Connect app. The provided code snippet was used as an example during an in-person presentation to illustrate a suggested architecture and workflow.
 
 ## Leetcode
 A collection of leetcode questions solved or worked on.
