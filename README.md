@@ -21,6 +21,8 @@ Simple program multiplying matrices of x by x dimensions. If they are of non-mat
 Simple program which removes the minimum and maximum value of an array. This was a practical thing I ran into doing my job so I wanted to test it in isolation because I thought that would be a fun thing to do.
 11. esp32 Bluetooth Demo
 This demo showcases how to use an ESP32 to communicate via Bluetooth with the nRF Connect app. The provided code snippet was used as an example during an in-person presentation to illustrate a suggested architecture and workflow.
+12. Time to index map
+I wanted to write a function that gets rid of floating point arithmetic. This was done to provide an optimization for certain microcontrollers and because I thought it would be fun. It is effective, and it was fun.
 
 ## Leetcode
 A collection of leetcode questions solved or worked on.
