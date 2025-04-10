@@ -23,6 +23,8 @@ Simple program which removes the minimum and maximum value of an array. This was
 This demo showcases how to use an ESP32 to communicate via Bluetooth with the nRF Connect app. The provided code snippet was used as an example during an in-person presentation to illustrate a suggested architecture and workflow.
 12. Time to index map
 I wanted to write a function that gets rid of floating point arithmetic. This was done to provide an optimization for certain microcontrollers and because I thought it would be fun. It is effective, and it was fun.
+13. Rotate chess board
+I have been thinking about a chess game which can be played on a single phone. One of the things that make this more fun is if after every turn the board rotates so you see it from your own perspective. This lead to a good excuse to write a quick little algorithm that does exactly this. Ofcourse it can be used for anything grid-related such as bitmaps and whatever.
 
 ## Leetcode
 A collection of leetcode questions solved or worked on.
