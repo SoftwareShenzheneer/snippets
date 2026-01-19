@@ -27,6 +27,8 @@ I wanted to write a function that gets rid of floating point arithmetic. This wa
 I have been thinking about a chess game which can be played on a single phone. One of the things that make this more fun is if after every turn the board rotates so you see it from your own perspective. This lead to a good excuse to write a quick little algorithm that does exactly this. Ofcourse it can be used for anything grid-related such as bitmaps and whatever.
 14. Index converter
 I had to convert indexes from an arbitrary amount to 180 in order to fit in a circle. Since I had to do this several times, I thought I would just write a script that does this. It takes a number as input and outputs the index mapped to a new range. For example, if the input is 360 and the requested output is 180 then every remapped index wil be index*2.
+15. Palindrome
+Quick function to check whether an input is a palindrome or not. Read about it and thought it would be a fun little 10 minute puzzle. Which it was.
 
 ## Leetcode
 A collection of leetcode questions solved or worked on.
